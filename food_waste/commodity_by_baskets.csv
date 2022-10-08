@@ -1,0 +1,285 @@
+,FBS Group,Crop,cpc_code,FBS Group Name,GFLI Basket Name
+1,1,Wheat ,0111,Cereals,Cereals & Pulses
+2,1, Maize (Corn) ,0112,Cereals,Cereals & Pulses
+3,1, Rice ,0113,Cereals,Cereals & Pulses
+4,1, Sorghum ,0114,Cereals,Cereals & Pulses
+5,1, Barley ,0115,Cereals,Cereals & Pulses
+6,1, Rye ,0116,Cereals,Cereals & Pulses
+7,1," Millet
+",0118,Cereals,Cereals & Pulses
+8,1, Oats ,0117,Cereals,Cereals & Pulses
+9,1, Triticale ,1191,Cereals,Cereals & Pulses
+10,1, Buckwheat ,1192,Cereals,Cereals & Pulses
+11,1, Fonio ,1193,Cereals,Cereals & Pulses
+12,1, Quinoa ,1194,Cereals,Cereals & Pulses
+13,1," Canary
+Seed ",1195,Cereals,Cereals & Pulses
+14,1, Mixed Grain ,1199.02,Cereals,Cereals & Pulses
+15,1, Other Cereals N.E.C. ,1199.9,Cereals,Cereals & Pulses
+16,1, Bulgur ,23140.02,Cereals,Cereals & Pulses
+17,1," Rice, Milled (Husked) ",23161.01,Cereals,Cereals & Pulses
+18,1," Rice, Milled ",23161.02,Cereals,Cereals & Pulses
+19,1," Rice, Broken ",23161.03,Cereals,Cereals & Pulses
+20,1," Communion Wafers, Empty Cachets Of A Kind Suitable For Pharmaceutical Use, Sealing Wafers, Rice Paper  And  Similar  Products.  ",23490.01,Cereals,Cereals & Pulses
+21,1,"  Uncooked  Pasta,  Not  Stuffed  Or  Otherwise Prepared )",23710,Cereals,Cereals & Pulses
+22,2,"Beans,  Dry  ",1701,Pulses,Cereals & Pulses
+23,2,"  Broad  Beans  And  Horse  Beans,  Dry  ",1702,Pulses,Cereals & Pulses
+24,2,"  Chick  Peas,  Dry  ",1703,Pulses,Cereals & Pulses
+25,2," Lentils,  Dry  ",1704,Pulses,Cereals & Pulses
+26,2,"  Peas,  Dry  ",1705,Pulses,Cereals & Pulses
+27,2,"  Cow  Peas,  Dry  ",1706,Pulses,Cereals & Pulses
+28,2,"  Pigeon  Peas,  Dry  ",1707,Pulses,Cereals & Pulses
+29,2," Bambara  Beans,  Dry  ",1708,Pulses,Cereals & Pulses
+30,2,  Vetches  ,1709.01,Pulses,Cereals & Pulses
+31,2,  Lupins   ,1709.02,Pulses,Cereals & Pulses
+32,2,"  Other  Pulses  N.E.C.
+)",1709.9,Pulses,Cereals & Pulses
+33,3,Avocados ,1311,Fruits,Fruits & Vegetables
+34,3, Bananas ,1312,Fruits,Fruits & Vegetables
+35,3, Plantains And Others ,1313,Fruits,Fruits & Vegetables
+36,3, Dates ,1314,Fruits,Fruits & Vegetables
+37,3, Figs ,1315,Fruits,Fruits & Vegetables
+38,3," Mangoes, Guavas, Mangosteens ",1316,Fruits,Fruits & Vegetables
+39,3, Papayas ,1317,Fruits,Fruits & Vegetables
+40,3, Pineapples ,1318,Fruits,Fruits & Vegetables
+41,3," Other Tropical Fruits, N.E.C. ",1319,Fruits,Fruits & Vegetables
+42,3, Pomelos And Grapefruits ,1321,Fruits,Fruits & Vegetables
+43,3, Lemons And Limes ,1322,Fruits,Fruits & Vegetables
+44,3, Oranges ,1323,Fruits,Fruits & Vegetables
+45,3,"  Tangerines,  Mandarins,  Clementines  ",1324,Fruits,Fruits & Vegetables
+46,3,"  Other  Citrus  Fruit,  N.E.C.  ",1329,Fruits,Fruits & Vegetables
+47,3, Grapes ,1330,Fruits,Fruits & Vegetables
+48,3, Apples ,1341,Fruits,Fruits & Vegetables
+49,3, Pears ,1342.01,Fruits,Fruits & Vegetables
+50,3, Quinces ,1342.02,Fruits,Fruits & Vegetables
+51,3, Apricots ,1343,Fruits,Fruits & Vegetables
+52,3, Sour Cherries ,1344.01,Fruits,Fruits & Vegetables
+53,3, Cherries ,1344.02,Fruits,Fruits & Vegetables
+54,3, Peaches And Nectarines ,1345,Fruits,Fruits & Vegetables
+55,3, Plums And Sloes ,1346,Fruits,Fruits & Vegetables
+56,3,  Other  Pome  Fruits  ,1349.1,Fruits,Fruits & Vegetables
+57,3,  Other  Stone  Fruits  ,1349.2,Fruits,Fruits & Vegetables
+58,3,  Currants  ,1351.01,Fruits,Fruits & Vegetables
+59,3,"
+Gooseberries   ",1351.02,Fruits,Fruits & Vegetables
+60,3,  Kiwi  Fruit  ,1352,Fruits,Fruits & Vegetables
+61,3,  Raspberries  ,1353.01,Fruits,Fruits & Vegetables
+62,3,  Strawberries  ,1354,Fruits,Fruits & Vegetables
+63,3, Blueberries  ,1355.01,Fruits,Fruits & Vegetables
+64,3,  Cranberries  ,1355.02,Fruits,Fruits & Vegetables
+65,3,  Other  Berries  And  Fruits  Of  The  Genus Vaccinium  ,1355.9,Fruits,Fruits & Vegetables
+66,3,  Persimmons  ,1359.01,Fruits,Fruits & Vegetables
+67,3,  Cashewapple  ,1359.02,Fruits,Fruits & Vegetables
+68,3,"  Other  Fruits  N.E.C.
+",1359.9,Fruits,Fruits & Vegetables
+69,3,  Raisins  ,21411,Fruits,Fruits & Vegetables
+70,3,"  Plums,  Dried  ",21412,Fruits,Fruits & Vegetables
+71,3,"  Apricots,  Dried  ",21419.01,Fruits,Fruits & Vegetables
+72,3,"  Figs,  Dried ",21419.02,Fruits,Fruits & Vegetables
+73,3," Other Fruit N.E.C., Dried ",21419.99,Fruits,Fruits & Vegetables
+74,3," Other Tropical Fruit, Dried ",21419.91,Fruits,Fruits & Vegetables
+75,3," Pineapples, Otherwise Prepared Or Preserved ",21491,Fruits,Fruits & Vegetables
+76,3, Flour Of Fruits ,23170.04,Fruits,Fruits & Vegetables
+77,3," Fruit, Nuts, Peel, Sugar Preserved ",23670.02,Fruits,Fruits & Vegetables
+78,3," Homogenized Cooked Fruit, Prepared ",23991.03,Fruits,Fruits & Vegetables
+79,3, Must Of Grape ,24212.01,Fruits,Fruits & Vegetables
+80,3, Fruit Prepared N.E.C. (F0623 ),0623,Fruits,Fruits & Vegetables
+81,4,Asparagus ,1211,Vegetables,Fruits & Vegetables
+82,4, Cabbages ,1212,Vegetables,Fruits & Vegetables
+83,4, Cauliflowers And Broccoli ,1213,Vegetables,Fruits & Vegetables
+84,4, Lettuce And Chicory ,1214,Vegetables,Fruits & Vegetables
+85,4, Spinach ,1215,Vegetables,Fruits & Vegetables
+86,4, Artichokes ,1216,Vegetables,Fruits & Vegetables
+87,4, Cassava Leaves ,1219.01,Vegetables,Fruits & Vegetables
+88,4, Watermelons ,1221,Vegetables,Fruits & Vegetables
+89,4, Cantaloupes And Other Melons ,1229,Vegetables,Fruits & Vegetables
+90,4," Chillies And Peppers, Green (Capsicum Spp. And Pimenta  Spp.)  ",1231,Vegetables,Fruits & Vegetables
+91,4,  Cucumbers  And  Gherkins  ,1232,Vegetables,Fruits & Vegetables
+92,4,  Eggplants  (Aubergines)  ,1233,Vegetables,Fruits & Vegetables
+93,4, Tomatoes ,1234,Vegetables,Fruits & Vegetables
+94,4," Pumpkins, Squash And Gourds ",1235,Vegetables,Fruits & Vegetables
+95,4, Okra   ,1239.01,Vegetables,Fruits & Vegetables
+96,4," Other Beans, Green ",1241.9,Vegetables,Fruits & Vegetables
+97,4, String Beans  ,1241.01,Vegetables,Fruits & Vegetables
+98,4," Peas, Green ",1242,Vegetables,Fruits & Vegetables
+99,4," Broad Beans And Horse Beans, Green  ",1243,Vegetables,Fruits & Vegetables
+100,4, Carrots And Turnips ,1251,Vegetables,Fruits & Vegetables
+101,4, Green Garlic ,1252,Vegetables,Fruits & Vegetables
+102,4," Onions And Shallots, Green ",1253.01,Vegetables,Fruits & Vegetables
+103,4,  Leeks  And  Other  Alliaceous  Vegetables  ,1254,Vegetables,Fruits & Vegetables
+104,4,"  Onions  And  Shallots,  Dry (Excluding Dehydrated) ",1253.02,Vegetables,Fruits & Vegetables
+105,4, Mushrooms And Truffles ,1270,Vegetables,Fruits & Vegetables
+106,4, Green Corn (Maize) ,1290.01,Vegetables,Fruits & Vegetables
+107,4," Other Vegetables, Fresh N.E.C. ",1290.9,Vegetables,Fruits & Vegetables
+108,4, Locust Beans (Carobs) ,1356,Vegetables,Fruits & Vegetables
+109,4," Chicory
+Roots  )",1691,Vegetables,Fruits & Vegetables
+110,5,Soya Beans ,0141,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+111,5," Groundnuts, Excluding Shelled ",0142,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+112,5, Cottonseed ,0143,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+113,5, Linseed ,1441,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+114,5, Mustard Seed ,1442,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+115,5, Rapeseed Or Colza Seed ,1443,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+116,5, Sesame Seed ,1444,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+117,5, Sunflower Seed ,1445,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+118,5, Safflower Seed ,1446,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+119,5, Castor Oil Seeds ,1447,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+120,5, Poppy Seed ,1448,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+121,5," Melonseed
+",1449.01,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+122,5, Hempseed ,1449.02,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+123,5, Olives ,1450,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+124,5," Other Oil Seeds, N.E.C. ",1449.9,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+125,5," Coconuts, In Shell ",1460,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+126,5, Oil Palm Fruit ,1491.01,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+127,5, Palm Kernels ,1491.02,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+128,5, Copra ,1492,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+129,5, Karite Nuts (Sheanuts)  ,1499.01,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+130,5,  Tung  Nuts  ,1499.02,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+131,5,  Jojoba  Seeds  ,1499.03,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+132,5,  Tallowtree  Seeds ,1499.04,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+133,5,  Kapok  Fruit  ,1499.05,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+134,5,  Kapokseed  In  Shell  ,1499.06,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+135,5,"  Kapokseed,  Shelled ",1499.07,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+136,5,"  Groundnuts,  Shelled  ",21421,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+137,5,"  Coconuts,  Desiccated  ",21429.07,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+138,5,"  Prepared
+Groundnuts )",21495.01,Oil Crops,"Roots,  Tubers  &  Oil- Bearing Crops"
+139,6,Potatoes  ,1510,"Roots, Tubers & Products","Roots,  Tubers  &  Oil- Bearing Crops"
+140,6,"  Cassava,  Fresh  ",1520.01,"Roots, Tubers & Products","Roots,  Tubers  &  Oil- Bearing Crops"
+141,6,"  Cassava,  Dried  ",1520.02,"Roots, Tubers & Products","Roots,  Tubers  &  Oil- Bearing Crops"
+142,6,  Sweet  Potatoes ,1530,"Roots, Tubers & Products","Roots,  Tubers  &  Oil- Bearing Crops"
+143,6, Yams ,1540,"Roots, Tubers & Products","Roots,  Tubers  &  Oil- Bearing Crops"
+144,6, Taro  ,1550,"Roots, Tubers & Products","Roots,  Tubers  &  Oil- Bearing Crops"
+145,6, Yautia  ),1591,"Roots, Tubers & Products","Roots,  Tubers  &  Oil- Bearing Crops"
+146,7,Fat Of Pigs ,21511.01,Animal fats,Animals  And  Animal Products
+147,7," Pig, Butcher Fat ",21511.02,Animal fats,Animals  And  Animal Products
+148,7, Fat Of Poultry ,21511.03,Animal fats,Animals  And  Animal Products
+149,7," Cattle Fat, Unrendered  ",21512,Animal fats,Animals  And  Animal Products
+150,7,"  Cattle,  Butcher  Fat  ",21512.01,Animal fats,Animals  And  Animal Products
+151,7,"  Buffalo  Fat,  Unrendered  ",21513,Animal fats,Animals  And  Animal Products
+152,7," Sheep Fat, Unrendered ",21514,Animal fats,Animals  And  Animal Products
+153,7, Fat Of Camels ,21519.02,Animal fats,Animals  And  Animal Products
+154,7," Pig Fat, Rendered ",21521,Animal fats,Animals  And  Animal Products
+155,7, Fat Of  Other  Camelids  ,21519.03,Animal fats,Animals  And  Animal Products
+156,7,"  Poultry  Fat,  Rendered  ",21522,Animal fats,Animals  And  Animal Products
+157,7,  Tallow  ,21523,Animal fats,Animals  And  Animal Products
+158,7,  Lard Stearine And Lard Oil ,21529.02,Animal fats,Animals  And  Animal Products
+159,7, ,21529.03,Animal fats,Animals  And  Animal Products
+160,7, Degras ,21932.01,Animal fats,Animals  And  Animal Products
+161,7," Wool Grease And Lanolin
+(F0994 ), Fat Preparations N.E.C. (F1243 )",0994,Animal fats,Animals  And  Animal Products
+162,8,"Hen Eggs In Shell, Fresh ",0231,Eggs,Animals  And  Animal Products
+163,8," Eggs From Other Birds In Shell, Fresh, N.E.C. ",0232,Eggs,Animals  And  Animal Products
+164,8, Egg Albumin ,23993.01,Eggs,Animals  And  Animal Products
+165,8," Eggs, Liquid ",23993.02,Eggs,Animals  And  Animal Products
+166,8," Eggs, Dried )",23993.03,Eggs,Animals  And  Animal Products
+167,9,"Snails, Fresh, Chilled, Frozen, Dried, Salted Or In Brine, Except Sea Snails ",2920,Meat,Animals  And  Animal Products
+168,9," Meat Of Cattle  With  The  Bone,  Fresh  Or  Chilled  ",21111.01,Meat,Animals  And  Animal Products
+169,9,"  Meat  Of  Cattle  Boneless,  Fresh  Or
+Chilled ",21111.02,Meat,Animals  And  Animal Products
+170,9," Meat Of Buffalo, Fresh Or Chilled ",21112,Meat,Animals  And  Animal Products
+171,9,"Meat Of Pig With The Bone, Fresh Or Chilled",21113.01,Meat,Animals  And  Animal Products
+172,10,Fresh Or Chilled ,21113.01,Milk and Dairy,Animals  And  Animal Products
+173,10," Meat Of Pig Boneless, Fresh Or Chilled ",21113.02,Milk and Dairy,Animals  And  Animal Products
+174,10," Meat Of Sheep, Fresh Or Chilled ",21115,Milk and Dairy,Animals  And  Animal Products
+175,10," Meat Of Rabbits And Hares, Fresh Or Chilled ",21114,Milk and Dairy,Animals  And  Animal Products
+176,10," Meat Of Goat, Fresh Or Chilled ",21116,Milk and Dairy,Animals  And  Animal Products
+177,10," Meat Of Camels, Fresh Or Chilled ",21117.01,Milk and Dairy,Animals  And  Animal Products
+178,10," Meat Of Other Domestic Camelids, Fresh Or Chilled ",21117.02,Milk and Dairy,Animals  And  Animal Products
+179,10," Horse Meat, Fresh Or Chilled ",21118.01,Milk and Dairy,Animals  And  Animal Products
+180,10," Meat Of Asses, Fresh Or Chilled ",21118.02,Milk and Dairy,Animals  And  Animal Products
+181,10," Meat Of Mules, Fresh Or Chilled ",21118.03,Milk and Dairy,Animals  And  Animal Products
+182,10,"  Meat  Of  Other  Domestic  Rodents,  Fresh  Or  Chilled  ",21119.01,Milk and Dairy,Animals  And  Animal Products
+183,10,"  Meat  Of Chickens,  Fresh  Or  Chilled  ",21121,Milk and Dairy,Animals  And  Animal Products
+184,10,"  Meat  Of  Ducks,  Fresh  Or  Chilled  ",21122,Milk and Dairy,Animals  And  Animal Products
+185,10,"  Meat  Of Geese, Fresh Or Chilled ",21123,Milk and Dairy,Animals  And  Animal Products
+186,10," Meat Of Turkeys, Fresh Or Chilled ",21124,Milk and Dairy,Animals  And  Animal Products
+187,10," Edible Offal Of Cattle, Fresh, Chilled Or Frozen ",21151,Milk and Dairy,Animals  And  Animal Products
+188,10," Edible Offal Of Buffalo, Fresh, Chilled Or Frozen ",21152,Milk and Dairy,Animals  And  Animal Products
+189,10," Edible Offal Of Pigs, Fresh, Chilled Or Frozen ",21153,Milk and Dairy,Animals  And  Animal Products
+190,10," Edible Offal Of Sheep, Fresh, Chilled Or Frozen ",21155,Milk and Dairy,Animals  And  Animal Products
+191,10," Edible Offal Of Goat, Fresh, Chilled Or Frozen ",21156,Milk and Dairy,Animals  And  Animal Products
+192,10," Edible Offals Of Horses And Other Equines,  Fresh, Chilled Or Frozen ",21159.01,Milk and Dairy,Animals  And  Animal Products
+193,10," Edible Offals Of Camels And Other Camelids, Fresh, Chilled Or Frozen ",21159.02,Milk and Dairy,Animals  And  Animal Products
+194,10," Edible Offals And Liver Of Chickens And Guinea Fowl, Fresh, Chilled Or Frozen ",21160.01,Milk and Dairy,Animals  And  Animal Products
+195,10," Edible Offals And Liver Of Geese, Fresh, Chilled Or Frozen ",21160.02,Milk and Dairy,Animals  And  Animal Products
+196,10," Edible Offals And Liver Of Ducks, Fresh, Chilled Or  Frozen  ",21160.03,Milk and Dairy,Animals  And  Animal Products
+197,10,"  Edible  Offals  And  Liver  Of  Turkey,Fresh,  Chilled  Or  Frozen ",21160.04,Milk and Dairy,Animals  And  Animal Products
+198,10," Meat Of Pigeons And Other Birds N.E.C., Fresh, Chilled Or Frozen ",21170.01,Milk and Dairy,Animals  And  Animal Products
+199,10," Game Meat, Fresh, Chilled Or Frozen ",21170.02,Milk and Dairy,Animals  And  Animal Products
+200,10," Other Meat N.E.C. (Excluding Mammals), Fresh, Chilled Or Frozen ",21170.92,Milk and Dairy,Animals  And  Animal Products
+201,10," Offals N.E.C. (Excluding Mammals),Fresh, Chilled Or Frozen ",21170.93,Milk and Dairy,Animals  And  Animal Products
+202,10," Pig Meat, Cuts, Salted, Dried Or Smoked (Bacon And Ham) ",21181,Milk and Dairy,Animals  And  Animal Products
+203,10," Other Meat And Edible Meat Offal, Salted, In Brine, Dried Or Smoked; Edible Flours And
+Meals Of Meat Or Meat Offal )",21183,Milk and Dairy,Animals  And  Animal Products
+204,11,Raw Milk Of Cattle ,2211,Fish & Fisheries Products,Fish & Fish Products
+205,11, Raw Milk Of Buffalo ,2212,Fish & Fisheries Products,Fish & Fish Products
+206,11, Raw Milk Of Sheep ,2291,Fish & Fisheries Products,Fish & Fish Products
+207,11, Raw Milk Of Goats ,2292,Fish & Fisheries Products,Fish & Fish Products
+208,11, Raw Milk Of Camel ,2293,Fish & Fisheries Products,Fish & Fish Products
+209,11, Skim Milk Of Cows ,22110.02,Fish & Fisheries Products,Fish & Fish Products
+210,11, Skim Milk Of Buffalo  ,22110.04,Fish & Fisheries Products,Fish & Fish Products
+211,11,  Skim  Sheep  Milk  ,22110.05,Fish & Fisheries Products,Fish & Fish Products
+212,11,  Skim  Milk  Of  Goat  ,22110.06,Fish & Fisheries Products,Fish & Fish Products
+213,11,  Dairy Products N.E.C. ,22290,Fish & Fisheries Products,Fish & Fish Products
+214,11," Cream, Fresh ",22120,Fish & Fisheries Products,Fish & Fish Products
+215,11, Butter Of Cow Milk ,22241.01,Fish & Fisheries Products,Fish & Fish Products
+216,11, Ghee From Cow  Milk  ,22241.02,Fish & Fisheries Products,Fish & Fish Products
+217,11,  Butter  Of  Buffalo  Milk  ,22242.01,Fish & Fisheries Products,Fish & Fish Products
+218,11,"  Ghee,  From  Buffalo  Milk
+",22242.02,Fish & Fisheries Products,Fish & Fish Products
+219,11, Butter And Ghee Of Sheep Milk ,22249.01,Fish & Fisheries Products,Fish & Fish Products
+220,11, Butter Of Goat Milk ,22249.02,Fish & Fisheries Products,Fish & Fish Products
+222,12,Cephalopods ,2766,Spices,Other
+223,12, Crustaceans ,2765,Spices,Other
+224,12, Demersal Fish ,2762,Spices,Other
+225,12, Freshwater Fish ,2761,Spices,Other
+226,12," Marine  Fish,  Other  ",2764,Spices,Other
+227,12,"  Molluscs,  Other  ",2767,Spices,Other
+228,12,  Pelagic  Fish  ,2763,Spices,Other
+229,12,"  Fish,  Seafood ",2960,Spices,Other
+230,12," Aquatic Animals, Others ",2769,Spices,Other
+231,12, Aquatic Plants ,2775,Spices,Other
+232,12," Meat, Aquatic Mammals ",2768,Spices,Other
+233,12," Aquatic Products, Other )",2961,Spices,Other
+234,13,"Pepper (Piper Spp.), Raw ",1651,Stimulants,Other
+235,13," Chillies And Peppers, Dry (Capsicum Spp. And Pimenta Spp.),  Raw  ",1652,Stimulants,Other
+236,13,"  Nutmeg,  Mace,  Cardamoms,  Raw  ",1653,Stimulants,Other
+237,13,"  Anise,  Badian,  Coriander, Cumin, Caraway, Fennel And Juniper Berries, Raw ",1654,Stimulants,Other
+238,13," Cinnamon And Cinnamon-Tree Flowers, Raw ",1655,Stimulants,Other
+239,13," Cloves (Whole Stems), Raw ",1656,Stimulants,Other
+240,13," Ginger, Raw ",1657,Stimulants,Other
+241,13," Vanilla, Raw
+",1658,Stimulants,Other
+242,13," Other Stimulant, Spice And Aromatic Crops, N.E.C.  )",1699,Stimulants,Other
+243,14,"Coffee, Green ",1610,Sugars & Syrups,Other
+244,14, Tea Leaves ,1620,Sugars & Syrups,Other
+245,14, Maté Leaves ,1630,Sugars & Syrups,Other
+246,14, Cocoa Beans ,1640,Sugars & Syrups,Other
+247,14, Cocoa Paste  Not  Defatted  ,23610.01,Sugars & Syrups,Other
+248,14,"  Coffee,  Decaffeinated  Or  Roasted  ",23911,Sugars & Syrups,Other
+249,14,"  Chocolate
+Products Nes (F0666 )",0666,Sugars & Syrups,Other
+250,15,Sugar Beet ,1801,Sugars & Syrups,Other
+251,15, Sugar Cane ,1802,Sugars & Syrups,Other
+252,15, Other Sugar Crops N.E.C. ,1809,Sugars & Syrups,Other
+253,15," Natural Honey
+)",2910,Sugars & Syrups,Other
+254,16,"Almonds,  In  Shell  ",1371,Tree Nuts,Other
+255,16,"  Cashew  Nuts,  In  Shell  ",1372,Tree Nuts,Other
+256,16,"  Chestnuts,  In  Shell  ",1373,Tree Nuts,Other
+257,16," Hazelnuts, In Shell ",1374,Tree Nuts,Other
+258,16," Pistachios, In Shell ",1375,Tree Nuts,Other
+259,16," Walnuts, In Shell ",1376,Tree Nuts,Other
+260,16," Brazil Nuts, In Shell ",1377,Tree Nuts,Other
+261,16, Areca Nuts   ,1379.01,Tree Nuts,Other
+262,16, Kola Nuts ,1379.02,Tree Nuts,Other
+263,16," Other Nuts (Excluding Wild Edible  Nuts  And  Groundnuts),  In  Shell,  N.E.C.  ",1379.9,Tree Nuts,Other
+264,16,"  Almonds,  Shelled  ",21422,Tree Nuts,Other
+265,16," Hazelnuts, Shelled ",21423,Tree Nuts,Other
+266,16," Cashew Nuts, Shelled ",21424,Tree Nuts,Other
+267,16," Brazil Nuts, Shelled ",21429.01,Tree Nuts,Other
+268,16,"
+Walnuts, Shelled ",21429.02,Tree Nuts,Other
+269,16, Prepared Nuts (F0235 ),0235,Tree Nuts,Other
