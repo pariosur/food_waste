@@ -87,7 +87,7 @@ THEN "clothing_accessories_uncategorized_uncategorized"
 ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "peluche|teddy|paw patrol|woof woof"))
 THEN "toys and games_plush_uncategorized_uncategorized"
 
-ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "thimble|burton albion"))
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "thimble|burton albion|snow scene cards|snow scene set|primitive"))
 THEN "toys and games_hobbies_collectibles_uncategorized"
 
 
@@ -120,7 +120,7 @@ ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "casi
 THEN "watches_men_uncategorized_uncategorized"
 
 
-ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "nike adapt auto max|nike tech|nike zoom|adidas burg|adidas silver|adidas silver|nike black|nike borough|nike roshe|b malone|nike union|skechers|nike tw adaptve|adidas base techmock"))
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "nike adapt auto max|nike tech|nike zoom|adidas burg|adidas silver|adidas silver|nike black|nike borough|nike roshe|b malone|nike union|skechers|nike tw adaptve|adidas base techmock|nike 270|nike heren|nike max 95|nike presto|nike.*(air max|huarache|sacai|waffle|max)|adidas.*(ozweego|original)|slaz force|fila.*(ski)|asian crystal"))
 THEN "sports and outdoors_running_shoes_uncategorized"
 
 ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "board game|sumo squats"))
@@ -184,6 +184,23 @@ THEN "sports and outdoors_rugby_hardware_uncategorized"
 
 
 
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "billboard dad|go snowboard|bodyguard|riding the class|simon snow|peppa skating"))
+THEN "dvd and blu-ray_uncategorized_uncategorized_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "cobox"))
+THEN "health and personal care_medical, remedies and dietary supplements_first aid_bandages"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "koala|board book|focused|medicine|knowledge|grey ghost"))
+THEN "books_uncategorized_uncategorized_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "suncream"))
+THEN "beauty_skin care_sun care and tanning_sun protection creams"
+
+
+
 
 
 
@@ -194,8 +211,223 @@ THEN "sports and outdoors_rugby_hardware_uncategorized"
 // SKIING
 
 
-ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "lee c.*(casuals)"))
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "lee c.*(casuals)|nike janoski|nike huaraches|blue kurobe|hellbraune schuhe|slaz.*(warrior)|carlton airblade|provogue pro|bruno marc|adidas.*(courtpoint)|force 58|skate hi top"))
 THEN "shoes and accessories_shoes_uncategorized_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "giorgio|donnay|karrimor dr|crew 10|clsc|everlast.*(crew)|marvel 3pk|everlast.*(3pk|10pk)"))
+THEN "clothing_men_socks_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "lee c 10pk.*(ladies)|pro studio|multi ladies"))
+THEN "clothing_women_socks_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "nike pros|nike trackie|90s reebok fleece|adidas rojo|90s reebok fleece|nike.*(\bpro\b)|black fleece|green fleece|regatta fleece|mountain wh fleece|animal fleece|blue fleece|regatta|navy.*(fleece)|white fleece|choc heritage|black wool jkt|outdoor fleeces|ottawa flc|everlast.*(zip)|slaz.*(zip|crew|base)"))
+THEN "clothing_sportswear_uncategorized_uncategorized"
+
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "boobtube|boob bur|boob1"))
+THEN "clothing_women_tops, t-shirts and blouses_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "hat/mittens"))
+THEN "clothing_accessories_hats and caps_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "nep skinny|boo38|adidas.*(trackies)|vego"))
+THEN "clothing_unisex_jeans_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "smiggle|blue star fleece bag"))
+THEN "luggage and bags_bags_backpacks_uncategorized"
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "reset beauty|clinsol"))
+THEN "beauty_bath and body_uncategorized_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "adidas.*(predator|speedportal)|nike.*(mercurial|hypervenom)"))
+THEN "sports and outdoors_football_shoes_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "shoelace"))
+THEN "shoes and accessories_care products and accessories_shoe laces_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "shovel"))
+THEN "garden and outdoors_snow removal_snow shovels_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "ice scraper"))
+THEN "garden and outdoors_snow removal_de-icers and salt spreaders_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "usa pro"))
+THEN "clothing_unisex_snow and rainwear_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "everlast.*(hat)|slaz.*(visor|hat)"))
+THEN "clothing_accessories_hats and caps_uncategorized"
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "slaz.*(oth)"))
+THEN "clothing_unisex_knitwear, hoodies and sweatshirts_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "carlton.*(player)"))
+THEN "sports and outdoors_squash_rackets_uncategorized"
+
+
+
+ELSEIF [merchant_name (copie pour filter)]="myntra" AND [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "fleece"))
+THEN "clothing_unisex_knitwear, hoodies and sweatshirts_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "nighty"))
+THEN "clothing_women_lingerie and underwear_uncategorized"
+
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "flannel fleece"))
+THEN "home and kitchen_bedding_blankets_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "back cover|infinix|\bvivo\b|oneplus|claxa|mobile skin"))
+THEN "computer and electronics_accessories_phone accessories_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "pine fresh"))
+THEN "grocery_household and cleaning_cleaning_cleansers"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "shrug"))
+THEN "clothing_women_uncategorized_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "kurti"))
+THEN "clothing_women_dresses and skirts_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "mitten"))
+THEN "clothing_accessories_gloves and mitts_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "bitter.*(rats)|sprayer"))
+THEN "garden and outdoors_gardening_plant protection and pest control_uncategorized"
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "urad"))
+THEN "grocery_fruit and vegetables_vegetables_beans, pods and sprouts - fresh"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "westbeach helmet"))
+THEN "sports and outdoors_cycling_helmets and accessories_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "lego friends"))
+THEN "toys and games_building and construction toys_uncategorized_uncategorized"
+
+
+
+
+
+// SNOWSHOEING
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "hannea|juspro|lintimes|shoe covers|rain boot|overshoe|livzing"))
+THEN "shoes and accessories_care products and accessories_overshoes_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "waterproof.*(gaiter)|hiking gaiter|azarxis|2pair waterproof"))
+THEN "sports and outdoors_camping, hiking and mountaineering_shoes_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "mac.*(snow leopard)"))
+THEN "software_operating systems_uncategorized_uncategorized"
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "snowbell"))
+THEN "diy and tools_hardware_bathroom hardware_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "handcuff"))
+THEN "sports and outdoors_camping, hiking and mountaineering_trekking poles_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "ulogu"))
+THEN "sports and outdoors_climbing_shoes_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "rain soul"))
+THEN "health and personal care_diet and nutrition_vitamins, minerals and supplements_animal-based supplements"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "pink.*(snowboot)"))
+THEN "shoes and accessories_shoes_women's shoes_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "gelert.*(pole)"))
+THEN "sports and outdoors_camping, hiking and mountaineering_trekking poles_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "peppa pig"))
+THEN "digital books_uncategorized_uncategorized_uncategorized"
+
+
+
+// ICE SKATING
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "jacket repair|repair patches"))
+THEN "clothing_accessories_uncategorized_uncategorized"
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "posture corrector|vokka|posture|green pasture"))
+THEN "health and personal care_medical, remedies and dietary supplements_medication aids_orthopedic aids"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "women.*(dress)|prntd"))
+THEN "clothing_women_dresses and skirts_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "christmas sweater|hoodie|sweater"))
+THEN "clothing_unisex_knitwear, hoodies and sweatshirts_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "adidas pure game"))
+THEN "beauty_fragrances_men_uncategorized"
+
+
+ELSEIF [merchant_name (copie pour filter)]="next" AND [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "prnt"))
+THEN "clothing_women_dresses and skirts_uncategorized"
+
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "round tray|tray set"))
+THEN "home and kitchen_tableware_serving dishes_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "frozen.*(party)"))
+THEN "toys and games_party supplies_decorations_uncategorized"
+
+
+
+// SLEDGES
+
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "frozen.*(wand|sleeve)"))
+THEN "toys and games_fancy dress and accessories_uncategorized_uncategorized"
+
+
+ELSEIF [Ml Category 1]="winter sports" AND (REGEXP_MATCH([Product Concat], "snow cone"))
+THEN "home and kitchen_small kitchen appliances_uncategorized_uncategorized"
+
+
+
+
+
+
+
+
+
 
 ELSE NULL
 END
